@@ -1,3 +1,1 @@
-the
-### mordeheim
-server
+the mordeheim server
